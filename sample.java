@@ -4,8 +4,8 @@ public class casestudy{
 }
 }
 class formula{
-	public int add(int c, int b){
-	int sum = c+b;
+	public int add(int d, int b){
+	int sum = d+b;
 	return sum;
 }
 }
